@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new text pull to another!
+=======
+pull to Anh Hao`
+>>>>>>> 4dec4e0ba4864b49d52aa01011f4fa8ab6a9ca67
